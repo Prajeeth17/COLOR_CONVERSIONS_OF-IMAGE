@@ -169,41 +169,39 @@ cv2.imwrite('modified image',flipped_vertically)
 ### i)Read and Display an Image
 ![image](https://github.com/user-attachments/assets/5aed25a6-8c38-4e67-ac47-8706361d926b)
 ### ii)Draw Shapes and Add Text
+#### a) Draw a line from the top-left to the bottom-right of the image
 ![image](https://github.com/user-attachments/assets/9979731d-4fbb-49b6-b153-72fdf9952095)
+#### b) Draw a circle at the center of the image
 ![image](https://github.com/user-attachments/assets/6c31d60f-2e93-47dd-b17d-84676041cacd)
+#### c) Draw a rectangle around a specific region of interest in the image
 ![image](https://github.com/user-attachments/assets/88ce759a-42ff-4894-96a1-39d4bdafef03)
+#### d) Add the text "OpenCV Drawing" at the top-left corner of the image
 ![image](https://github.com/user-attachments/assets/5f6eed6c-1645-4229-bc6b-6b35201be9d2)
 ### iii)Image Color Conversion
+#### a) Convert the image from RGB to HSV
 ![image](https://github.com/user-attachments/assets/ce6fdddd-5c8d-4967-b30b-8ed183d6d127)
+#### b) Convert the image from RGB to GRAY
 ![image](https://github.com/user-attachments/assets/6137e43e-7cb2-43f8-b11c-e5c4cfd8eecf)
+#### c) Convert the image from RGB to YCrCb
 ![image](https://github.com/user-attachments/assets/c85ca9fa-3f98-4833-9294-d58c5e193cb1)
+#### d) Convert the HSV image back to RGB
 ![image](https://github.com/user-attachments/assets/830ee006-96fe-4ff1-a932-f4aef3daafa8)
-
 ### iv)Access and Manipulate Image Pixels
-<br>
-<br>
-
+#### a) Access and print the value of the pixel at coordinates (100, 100)
+![image](https://github.com/user-attachments/assets/f84305df-c901-4ecc-b8e8-da577271db54)
+#### b) Modify the color of the pixel at (200, 200) to white
+![image](https://github.com/user-attachments/assets/c1eb2a02-be1f-4c64-a4c8-43ec5f81312c)
 ### v)Image Resizing
-<br>
-<br>
-
+![image](https://github.com/user-attachments/assets/1ebd8035-bc23-47b2-9fd2-59f80d9554d6)
 ### vi)Image Cropping
-<br>
-<br>
-
+![image](https://github.com/user-attachments/assets/12fcb743-24df-48c5-8265-80aeef280f8e)
 ### vii)Image Flipping
-<br>
-<br>
-
+#### a) Flip the original image horizontally
+![image](https://github.com/user-attachments/assets/0257c25f-a373-4002-978e-df41a3daebfd)
+#### b) Flip the original image vertically
+![image](https://github.com/user-attachments/assets/4deb0700-e4c1-486e-80ab-6d6a9ca3e5b3)
 ### viii)Write and Save the Modified Image
-<br>
-<br>
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/dc1e9cad-d0ab-4d44-9a8f-49bd991074ac)
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed  successfully using the python program.
 
